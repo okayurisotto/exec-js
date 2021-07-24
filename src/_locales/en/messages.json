@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "EXEC_JS"
+  },
+  "extensionDescription": {
+    "message": "Execute JavaScript specified by you."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "*://*/*",
+    "storage"
+  ],
+  "omnibox": {
+    "keyword": "ej"
+  },
+  "options_ui": {
+    "page": "options/index.html"
+  }
+}

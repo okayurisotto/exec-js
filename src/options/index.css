@@ -1,0 +1,11 @@
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+  row-gap: 8px;
+}
+
+#code {
+  resize: vertical;
+  min-height: 200px;
+}
