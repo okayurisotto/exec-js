@@ -4,5 +4,8 @@
   "repository": "git@github.com:okayurisotto/exec-js.git",
   "author": "okayurisotto <47853651+okayurisotto@users.noreply.github.com>",
   "license": "CC0-1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "web-ext": "^6.2.0"
+  }
 }
